@@ -23,14 +23,6 @@ I have a strong background in **data infrastructure**, **Microsoft 365 solutions
 
 ---
 
-## What I’m Working On  
-
-- Building hybrid data-sharing frameworks combining governance and automation  
-- Developing knowledge-driven cloud governance standards  
-- Exploring AI-based compliance monitoring and federated architectures  
-
----
-
 ## Certifications  
 
 Azure Data Engineer Associate | Azure Administrator | AWS Solutions Architect | Databricks Certified | Microsoft 365 Messaging Admin | ITIL  
