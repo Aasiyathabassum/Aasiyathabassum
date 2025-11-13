@@ -8,7 +8,7 @@ Cloud & Data Solution Architect | Multi-Cloud | Data Governance | Modern Workpla
 
 I design and implement **hybrid cloud ecosystems** that integrate data engineering, governance, and automation across **Azure** and **AWS**.  
 
-I have a strong background in **data infrastructure**, **Microsoft 365 solutions**, and **governance frameworks**, combining both the technical and strategic aspects of enterprise modernization.  
+I have a strong background in **data infrastructure**, **Cloud solutions**, and **governance frameworks**, combining both the technical and strategic aspects of enterprise modernization.  
 
 ---
 
