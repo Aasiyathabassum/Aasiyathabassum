@@ -1,36 +1,30 @@
-## Hi there 👋 I'm Aasiya Thabassum  
+## Hi 👋, I’m Aasiya Thabassum
 
-Cloud and Data Solutions • Data Governance • Multi-Cloud Integration • Modern Workplace
-
----
-
-## About Me  
-
-I design and implement hybrid cloud ecosystems that combine data engineering, governance and automation across Azure and AWS.  
-
-My work focuses on building secure, scalable and well-governed data platforms. I have experience in metadata management, access control, data classification, lineage and policy enforcement to support compliant and insight-ready environments.  
-
-I bridge technical delivery with governance frameworks, helping organisations standardise data quality, modernise cloud infrastructure and enable responsible data use across the enterprise.
+**Cloud Data & Platform Engineering • Architecture & Governance • Multi-Cloud**
 
 ---
 
-## Core Expertise  
+### About Me
 
-• Cloud Platforms: Azure • AWS • Hybrid Integration  
-• Data Engineering: Databricks • Azure Data Factory • AWS Glue • PySpark • Synapse  
-• DevOps and IaC: Docker • Terraform • GitHub Actions • CI CD  
-• Security and Governance: Keycloak • Azure AD • IAM • RBAC • Metadata Catalogs • Data Classification • Policy-as-Code • Data Lineage  
-• Modern Work Solutions: Microsoft 365 • Exchange Online • SharePoint • Power Platform  
+I work at the intersection of cloud data platforms, architecture, and governance, with a focus on designing secure and scalable data foundations across Azure and AWS.
+
+My experience centres on defining well-governed data platforms that support analytics, AI, and enterprise reporting. This includes architecture design, metadata and lineage strategies, access control models, and policy-driven data management to enable compliant and insight-ready environments.
+
+I enjoy bridging technical delivery with governance and platform standards, helping organisations modernise cloud data landscapes, improve data quality, and support responsible data use across complex and regulated environments.
 
 ---
 
-## Certifications  
+### Areas of Focus
 
-Azure Data Engineer Associate | AWS Solution Architect | Databricks Certified | Azure Administrator | Microsoft 365 Messaging | ITIL
+- **Cloud Platforms:** Azure, AWS, hybrid and multi-cloud data architectures  
+- **Data Platforms:** Lakehouse and data warehousing patterns, batch and streaming design  
+- **Automation & IaC:** Terraform, CI/CD, platform automation  
+- **Security & Governance:** IAM, RBAC, metadata management, data classification, lineage, policy-as-code  
+- **Modern Workplace & Collaboration:** Microsoft 365 and cloud collaboration platforms  
 
+---
+## Connect with Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/aasiyathabassum/
 
-## Connect  
-
-LinkedIn: https://www.linkedin.com/in/aasiyathabassum/  
-
+---
