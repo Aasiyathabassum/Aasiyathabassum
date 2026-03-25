@@ -1,30 +1,24 @@
-## Hi 👋, I’m Aasiya Thabassum
-
-**Cloud Data & Platform Engineering • Architecture & Governance • Multi-Cloud**
+## Hi 👋, I'm Aasiya Thabassum
+**Cloud & Data Platform Engineer • Azure | Databricks | Data Governance**
 
 ---
 
 ### About Me
+I specialise in designing and delivering cloud data platforms on **Azure and Databricks**, with a strong focus on governance, architecture, and secure data foundations.
 
-I work at the intersection of cloud data platforms, architecture, and governance, with a focus on designing secure and scalable data foundations across Azure and AWS.
+My work spans building end-to-end data pipelines using **Azure Data Factory, Databricks and Delta Lake**, implementing **RBAC and metadata management frameworks**, and translating complex business requirements into scalable, well-governed data platforms.
 
-My experience centres on defining well-governed data platforms that support analytics, AI, and enterprise reporting. This includes architecture design, metadata and lineage strategies, access control models, and policy-driven data management to enable compliant and insight-ready environments.
-
-I enjoy bridging technical delivery with governance and platform standards, helping organisations modernise cloud data landscapes, improve data quality, and support responsible data use across complex and regulated environments.
+I enjoy working at the intersection of platform engineering and governance — helping organisations build data foundations that are not just technically sound but compliant, insight-ready, and built to scale.
 
 ---
 
 ### Areas of Focus
-
-- **Cloud Platforms:** Azure, AWS, hybrid and multi-cloud data architectures  
-- **Data Platforms:** Lakehouse and data warehousing patterns, batch and streaming design  
-- **Automation & IaC:** Terraform, CI/CD, platform automation  
-- **Security & Governance:** IAM, RBAC, metadata management, data classification, lineage, policy-as-code  
-- **Modern Workplace & Collaboration:** Microsoft 365 and cloud collaboration platforms  
+- **Azure Data Platform:** Data Factory, Synapse, ADLS Gen2, Delta Lake, Databricks
+- **Data Engineering:** ETL/ELT pipelines, medallion architecture, batch and streaming design
+- **Governance & Security:** RBAC, metadata management, data lineage, policy-as-code, compliance
+- **Cloud Architecture:** Lakehouse patterns, multi-cloud, hybrid data environments
 
 ---
-## Connect with Me
 
+### Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aasiyathabassum/
-
----
