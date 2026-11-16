@@ -1,18 +1,20 @@
 
 # Hi, I'm Aasiya 👋
 
-### Cloud, Data & AI Governance Professional
+### Cloud & Data Platform Engineer | Azure | Databricks | Data Governance | AI Governance
 
-I work at the intersection of cloud platforms, data governance and responsible AI.
+I specialise in building and governing cloud-based data platforms, with experience across Microsoft Azure, Databricks and data governance.
 
-My interests include:
+My interests and areas of focus include:
 
-- AI Governance & Assurance
-- Responsible AI & AI Risk Management
-- AI Systems Evaluation
-- Cloud Data Platforms & Data Governance
-- AI Agents and Emerging Technologies
+- **Azure Data Platform:** Azure Data Factory, Azure Synapse Analytics, ADLS Gen2 and Delta Lake
+- **Data Engineering:** Data pipelines, data integration and platform architecture
+- **Data Governance & Security:** Microsoft Purview, RBAC, metadata management, data lineage and access controls
+- **AI Governance & Assurance:** Responsible AI, AI risk management, AI systems evaluation and governance frameworks
+- **Emerging Technologies:** Generative AI and AI agents
 
-This GitHub profile showcases practical projects, experiments and learning across cloud, data and AI governance.
+I'm expanding my work into AI Governance and Assurance, building on my background in cloud platforms, data governance and security.
+
+This profile showcases my technical work, practical case studies and learning across cloud, data and AI governance.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aasiyathabassum/).
