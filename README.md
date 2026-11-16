@@ -1,24 +1,18 @@
-## Hi 👋, I'm Aasiya Thabassum
-**Cloud & Data Platform Engineer • Azure | Databricks | Data Governance**
 
----
+# Hi, I'm Aasiya 👋
 
-### About Me
-I specialise in designing and delivering cloud data platforms on **Azure and Databricks**, with a strong focus on governance, architecture, and secure data foundations.
+### Cloud, Data & AI Governance Professional
 
-My work spans building end-to-end data pipelines using **Azure Data Factory, Databricks and Delta Lake**, implementing **RBAC and metadata management frameworks**, and translating complex business requirements into scalable, well-governed data platforms.
+I work at the intersection of cloud platforms, data governance and responsible AI.
 
-I enjoy working at the intersection of platform engineering and governance — helping organisations build data foundations that are not just technically sound but compliant, insight-ready, and built to scale.
+My interests include:
 
----
+- AI Governance & Assurance
+- Responsible AI & AI Risk Management
+- AI Systems Evaluation
+- Cloud Data Platforms & Data Governance
+- AI Agents and Emerging Technologies
 
-### Areas of Focus
-- **Azure Data Platform:** Data Factory, Synapse, ADLS Gen2, Delta Lake, Databricks
-- **Data Engineering:** ETL/ELT pipelines, medallion architecture, batch and streaming design
-- **Governance & Security:** RBAC, metadata management, data lineage, policy-as-code, compliance
-- **Cloud Architecture:** Lakehouse patterns, multi-cloud, hybrid data environments
+This GitHub profile showcases practical projects, experiments and learning across cloud, data and AI governance.
 
----
-
-### Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/aasiyathabassum/
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aasiyathabassum/).
